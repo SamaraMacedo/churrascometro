@@ -6,6 +6,9 @@ body{
     background-size: cover;
 }
 .container{
+   display: grid;
+   grid-gap:5px;
+    color:white;
     font-family: Arial, Helvetica, sans-serif;
     max-width: 300px;
     margin: 130px 50px 150px ;
@@ -16,16 +19,26 @@ body{
 }
  .container > h1{
     border-radius: 5px;
-    /* text-align: center; */
+     text-align: center;
     color: rgb(237, 238, 225);
     padding: 10px;
-    box-shadow: 0px 0px 2px 2px rgb(212, 59, 59) ;
+  
 } 
 input{
-    border-radius: 5px;
+    border-radius: 10px;
     width: 100%;
     display: block;
-    padding: 5px;
+    padding: 15px;
     box-sizing: border-box;
     margin-bottom: 10px;
+}
+
+button{
+    
+    background-color: brown;
+    font-weight:bold;
+    color:white;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 0px 0px 2px 2px rgb(221, 109, 109) ;
 }
