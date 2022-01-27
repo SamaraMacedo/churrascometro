@@ -16,7 +16,7 @@ body{
 }
  .container > h1{
     border-radius: 5px;
-    text-align: center;
+    /* text-align: center; */
     color: rgb(237, 238, 225);
     padding: 2px;
     box-shadow: 0px 0px 2px 2px rgb(212, 59, 59) ;
