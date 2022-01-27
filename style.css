@@ -8,6 +8,7 @@ body{
 .container{
    display: grid;
    grid-gap:5px;
+   grid-template-columns: auto;
     color:white;
     font-family: Arial, Helvetica, sans-serif;
     max-width: 500px;
