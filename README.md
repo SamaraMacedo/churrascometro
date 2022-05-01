@@ -1,4 +1,4 @@
-# churrascometro
+# samaramacedo.github.io/churrascometro/
  ChurrasCômetro
 ![churras05](https://user-images.githubusercontent.com/91075479/148309137-02b5aaa5-47a5-4448-b007-631dda10e2f5.png)
 ![churras04](https://user-images.githubusercontent.com/91075479/148309144-9f3c9142-af69-426d-87d1-01a5ac388702.png)
